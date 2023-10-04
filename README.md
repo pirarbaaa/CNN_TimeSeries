@@ -8,3 +8,7 @@ I propose a Convolutional Neural Network model, normally used in image recogniti
 3. Labeling
 4. Training
 5. Evaluation
+
+## Contacts:
+- LinkedIn [Luca pirarba](https://www.linkedin.com/in/lucapirarba/)
+- email lucapirarba@gmail.com
